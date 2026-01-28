@@ -1,0 +1,14 @@
+[
+    {
+        "ProduceName":"Maize",
+        "TypeOfProduce":"Cereal",
+        "Date":"new Date()",
+        "timeOfproduce":"new Date()",
+        "tonnage":"1200",
+        "dealerName":"Mike",
+        "BranchName": "Kampala",
+        "Contact":"070000000",
+        "price":"25000"
+
+    }
+]
